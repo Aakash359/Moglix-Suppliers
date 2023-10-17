@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007043937728",
+    "project_id": "moglix-supplier-new",
+    "storage_bucket": "moglix-supplier-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007043937728:android:29b532c99ad0adaac93425",
+        "android_client_info": {
+          "package_name": "com.moglix.supplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007043937728-ud0pu9vdhg8tbkh2ag224lcbeo71shhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjfETOi3_bDtit0L4CDkojk-sNvonnBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007043937728-ud0pu9vdhg8tbkh2ag224lcbeo71shhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
